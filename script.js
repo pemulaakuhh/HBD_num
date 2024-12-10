@@ -400,3 +400,8 @@ window.addEventListener( 'resize', function(){
 	
 	ctx.font = opts.charSize + 'px Verdana';
 })
+
+setTimeout(function() {
+	window.location.href = "index2.html";
+}, 12500);
+
